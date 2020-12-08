@@ -141,6 +141,7 @@ export {dfareporting_v3_3} from './apis/dfareporting/v3.3';
 export {dfareporting_v3_4} from './apis/dfareporting/v3.4';
 export {dialogflow_v2} from './apis/dialogflow/v2';
 export {dialogflow_v2beta1} from './apis/dialogflow/v2beta1';
+export {dialogflow_v3} from './apis/dialogflow/v3';
 export {dialogflow_v3beta1} from './apis/dialogflow/v3beta1';
 export {digitalassetlinks_v1} from './apis/digitalassetlinks/v1';
 export {discovery_v1} from './apis/discovery/v1';
